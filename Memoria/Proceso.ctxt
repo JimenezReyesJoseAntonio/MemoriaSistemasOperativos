@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Proceso
+comment1.params=nombre\ tama\u00F1o\ tiempo\ numero
+comment1.target=Proceso(java.lang.String,\ int,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getNombreProceso()
+comment3.params=
+comment3.target=int\ getTama\u00F1o()
+comment4.params=
+comment4.target=int\ getTiempo()
+comment5.params=
+comment5.target=int\ getNumero()
+numComments=6
